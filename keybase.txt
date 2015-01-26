@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/rvanwhy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://randyvanwhy.me
+  * I am rvanwhy (https://keybase.io/rvanwhy) on keybase.
+  * I have a public key with fingerprint 03A4 09C8 CCEB E54D 4354  4274 6FB5 4BA5 9222 2280
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "03a409c8ccebe54d435442746fb54ba592222280",
+            "host": "keybase.io",
+            "key_id": "6fb54ba592222280",
+            "kid": "0101b16579b6be56811c1a928ecd5fe47dc33b5119af0f7e7d4197619d5e59abed970a",
+            "uid": "0bd4554c419cceeabdee6d8bf4d7ca00",
+            "username": "rvanwhy"
+        },
+        "service": {
+            "hostname": "randyvanwhy.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1422240010,
+    "expire_in": 157680000,
+    "prev": "7349a9edf7382d12096e68606f09f8e35d2c2a82312214d9a9b1e28d566b7f25",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMMyAnicbZJ/TJR1HMfvJGmQMDM34wSbD8Qwb8fz+8cJoRLMK2I5oYxJ+Pz4PncP
+HPecd8fZIQRz/CoJ0LE081qLQTgozAI5NgPkRxg5kllGkVJAmUwIVo48k76P5n99
+/vnu+/m8Pu/Pj30GI0J04Xq184XmYwhSrh/t31mkyxo6HX4IEVTJh5gPIQXg/iMr
+DitwOV2Kw4OYEZTgSZQTWVEEAqBIiSQoksQZkpYFihR4isM1Y1HEiNhUt5YBZQTe
+DUyKCn3wk6dI0Ps/fMH9AIqhmIDRFMMJNKxAsxgmYjyHs0CUKBmQjCQShEBhGMfL
+qMwARiIxjqExTqIAxfECkDgG5aFc0QM5QSIpihQhBFsGvCABQEusIJMSI/KoVrfI
+DVwOvhBA2uXlHQdtPqTUiECnVxGBtgFtkIcA75B8DyATdBgRp0v1qKJqhzGbx+M0
+a6ken1NjDwIh7z+VPEFxSHCPMMELXG5FdSBmDJKiR9FkMRLugETh6EYEvO5UXCBP
+0QiKoVkUmlYGeKEkQ5AczwFJZggWlzAc5WhAszRKyygns4CgJFzEeRYnMBzHSAmy
+AgZwVqJoWmBknEK0uQ44VKiNwz55K9R0K1YH7ylyAaT0Qv++R3T6cF3o6lXaKejC
+w9Y+PJCJA2t1p/8OlGGXLn1xdqqJyPbHjAz4U4SjVUuLSzN9DX6L8/gxX9ovw2WP
+Dg+2SWmzuw5/f7M2cNL4Up3FHlLWpQzZcwc2fFgWMX1ObfNHTlxuNpiOiJXv55ck
+sj1WxdDyXWFCyzuPl92uyDYlGdJ/jMoIiyylCn9ensv69dbW+TOPRd7c3xG0FO9p
+7cm3b06Ovxx1JSLxlbAUpq3d8kHrusTdlX2OP73xE/fqXfZx3Q5bpH5bd1JKn5ox
+OV5eXBxoa7aT5dYTZ/+oDwYWQ6rdFaTX6U+NsYWupJ+M64qJLhlccUVjvt/NlU2G
+sRvqTMtYjS2feTf39nTyrDtVWR5dauAH3suOV2bi5DXWyMyP7ryI25Ibp5689abx
+s+e3nDKkPP3VSs5wMNlQ8FrhfF9I9LXtgfObO2teBecW28LO312fMVF3vSSruWNH
+7VM1tRHRCdXXL+5vtV9Ia9/4bOi93otJVenxJ0r3ZLZPPEdsK39rMifd3nPjt1rP
+DNHadffjwqs5q7+1TtbFnjpq+mFhbss/sSxfsY9F+zOOBFfpN7jNb8z/JE+ldLf0
+JsmfhGxyBjoKPk9Yd0afW6/LrPq0fXfv+OiVYM3XavLC22nM+pfnjlt2LnTG5S5t
+bIyx7B0ODO1tCt7ZPquOHJ4eERqqszZ9c21rKr4rupEYe6J77upylGnNX7HNz3z5
+L86iqKI=
+=eATh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rvanwhy
+
+==================================================================
+
