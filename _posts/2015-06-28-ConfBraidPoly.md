@@ -20,7 +20,9 @@ physics and robotics. We're going to use configuration spaces to explore interes
 topics.
 
 There is a natural \\(S_n\\)-action on the configuration space given
-by: \\[ \sigma(x_1,...,x_n) = (x_{\sigma(1)}, ..., x_{\sigma(n)}),\ \forall \sigma \in S_n \\]
+by:
+\\[ \sigma(x_1,...,x_n) = (x_{\sigma(1)}, ..., x_{\sigma(n)}),\ \forall \sigma \in S_n \\]
+
 i.e. the permutation group acts on configurations by permuting the positions of the points. We can define an
 equivalence relation on \\(PConf_n(M)\\) by defining two configurations \\(c_1, c_2 \in PConf_n(M)\\) as equivalent if there exists
 a permutation in \\(S_n\\) that transforms \\(c_1\\) into \\(c_2\\) and vice versa
