@@ -22,7 +22,7 @@ topics.
 There is a natural \\(S_n\\)-action on the configuration space given
 by $$\sigma (x_1,...,x_n) = (x_{\sigma(1)}, ..., x_{\sigma (n)}),\ \forall \sigma \in S_n$$
 i.e. the permutation group acts on configurations by permuting the positions of the points. We can define an
-equivalence relation on \\(PConf_n(M)\\) by defining two configurations \\(c_1, c_2 \in PConf_n(M)\\) as equivalent if there exists
+equivalence relation on \\(Conf_n(M)\\) by defining two configurations \\(c_1, c_2 \in Conf_n(M)\\) as equivalent if there exists
 a permutation in \\(S_n\\) that transforms \\(c_1\\) into \\(c_2\\) and vice versa
 (i.e. \\(\exists \sigma \in S_n\ s.t.\ \sigma c_1 = c_2, c_1 = \sigma^{-1} c_2)\\).
 One can see that this is indeed an equivalence relation. We denote the quotient space obtained from this relation by:
