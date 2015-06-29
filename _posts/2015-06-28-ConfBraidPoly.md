@@ -58,7 +58,7 @@ permutation on \\(n\\)-elements. The kernel of this map is the subgroup of \\(B_
 
 ![Source: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/7/77/Braid_s3_inv_squared.png)
 
-We call such braids "pure" braids. The quotient group denoted \\(P_n = B_n/\ker{\phi}\\) is called the "pure braid group" on \\(n\\) strands. From here, I can make the
+We call such braids "pure" braids. The group denoted \\(P_n = \ker{\phi}\\) is called the "pure braid group" on \\(n\\) strands. From here, I can make the
 bold claim about the [fundamental group](https://en.wikipedia.org/wiki/Fundamental_group) of a certain spaces:
 \\[\pi_1(Conf_n(\mathbb{C})) \cong B_n\\]
 \\[\pi_1(UConf_n(\mathbb{C})) \cong \pi_1(Poly_n(\mathbb{C})) \cong P_n\\]
