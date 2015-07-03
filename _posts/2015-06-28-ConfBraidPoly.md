@@ -60,13 +60,13 @@ permutation on \\(n\\)-elements. The kernel of this map is the subgroup of \\(B_
 
 We call such braids "pure" braids. The group denoted \\(P_n = \ker{\phi}\\) is called the "pure braid group" on \\(n\\) strands. From here, I can make the
 bold claim about the [fundamental group](https://en.wikipedia.org/wiki/Fundamental_group) of a certain spaces:
-\\[\pi_1(Conf_n(\mathbb{C})) \cong B_n\\]
-\\[\pi_1(UConf_n(\mathbb{C})) \cong \pi_1(Poly_n(\mathbb{C})) \cong P_n\\]
+\\[\pi_1(Conf_n(\mathbb{C})) \cong P_n\\]
+\\[\pi_1(UConf_n(\mathbb{C})) \cong \pi_1(Poly_n(\mathbb{C})) \cong B_n\\]
 This says that loops in the configuration space of the complex numbers act like braids. This translates to the world of polynomials by saying that loops in the space of monic
 square free polynomials act like pure braids. To see this, we can use the following picture:
 
 ![A helpful example]({{site.url}}/assets/loop.png)
 
-The above picture can be thought of as a time slice representing a loop in \\(Conf_n(\mathbb{C})\\) i.e. the horizontal axis are points in the configuration space and the vertical axis is time. The points at the top and bottom represent distinct points ordered from left to right that act as the endpoints of our loop.The braid formed, comes from the the way the points move around each other in the configuration space during the loop. There are formal proofs of this correspondence that make these ideas concrete.
+The above picture can be thought of as a time slice representing a loop in \\(UConf_n(\mathbb{C})\\) i.e. the horizontal axis are points in the configuration space and the vertical axis is time. The points at the top and bottom represent distinct points ordered from left to right that act as the endpoints of our loop.The braid formed, comes from the the way the points move around each other in the configuration space during the loop. There are formal proofs of this correspondence that make these ideas concrete.
 
-This relationship is even deeper than it seems. As it turns out, the higher [homotopy groups](https://en.wikipedia.org/wiki/Homotopy_group) of \\(Poly_n(\mathbb{C})\\) are trivial making \\(Poly_n(\mathbb{C})\\) the [classification space](https://en.wikipedia.org/wiki/Eilenberg%E2%80%93MacLane_space) of the pure braid group. Thus the [cohomologies](https://en.wikipedia.org/wiki/Cohomology) of the pure braid group directly correspond to the cohomologies of \\(Poly_n(\mathbb{C})\\). We now have some very powerful tools for studying polynomials and the braid group gives us a convenient way to do so. This correspondence was very surprising to me and is a very exciting topic to discuss.
+This relationship is even deeper than it seems. As it turns out, the higher [homotopy groups](https://en.wikipedia.org/wiki/Homotopy_group) of \\(Poly_n(\mathbb{C})\\) are trivial making \\(Poly_n(\mathbb{C})\\) the [classification space](https://en.wikipedia.org/wiki/Eilenberg%E2%80%93MacLane_space) of the braid group. Thus the [cohomologies](https://en.wikipedia.org/wiki/Cohomology) of the pure braid group directly correspond to the cohomologies of \\(Poly_n(\mathbb{C})\\). We now have some very powerful tools for studying polynomials and the braid group gives us a convenient way to do so. This correspondence was very surprising to me and is a very exciting topic to discuss.
