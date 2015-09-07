@@ -2,7 +2,9 @@
 layout: default
 current: contact
 title: Contact Me
+permalink: contact.html
 ---
+
 <div class="special jumbotron">
   <div class="container">
     <h1>Contact Information</h1>

@@ -2,6 +2,7 @@
 layout: default
 current: home
 title: Randy's Blog
+permalink: index.html
 ---
 
 
@@ -11,7 +12,7 @@ title: Randy's Blog
     <h1>Randy Van Why</h1>
     <hr>
     <p>This website contains my blog as well as information about me. I am an undergraduate student studying Mathematics at New Mexico Tech. I am currently
-     participating in an REU at the University of Chicago.</p>
+     finishing my fourth year at New Mexico Tech.</p>
   </div>
 </div>
 

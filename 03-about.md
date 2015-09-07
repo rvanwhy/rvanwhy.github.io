@@ -2,6 +2,7 @@
 layout: default
 current: about
 title: About Me
+permalink: about.html
 ---
 <div class="special jumbotron">
   <div class="container">
@@ -12,7 +13,7 @@ title: About Me
       to pursue a PhD in pure mathematics. My academic interests include Algebraic and Differential Geometry, Algebraic Topology, and Category Theory.
       I also have interest in Computer Science and the mathematics behind programming languages. 
     </p>
-    <p>When I am not studying math, I enjoy bouldering, music, tea and meditation.
+    <p>When I am not studying math, I enjoy bouldering, music, tea and meditation. Here are some of my favorite <a href="quotes.html">quotes</a>.
     </p>
 
     
