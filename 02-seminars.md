@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 current: Seminars
 title: My Seminars
 permalink: seminars.html
