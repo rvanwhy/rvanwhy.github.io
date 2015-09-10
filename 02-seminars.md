@@ -85,6 +85,12 @@ other speakers to give talks on constructivism.
 		<td>Randy Van Why</td>
         	<td><a style="color:black" href="http://www.ams.org/journals/bull/1994-30-02/S0273-0979-1994-00502-6/S0273-0979-1994-00502-6.pdf">On Proof and Progress in Mathematics</a>, <a style="color:black" href="http://www.math.uchicago.edu/~farb/papers/thurston.pd">On Being Thurstonized</a></td>
       	 </tr>
+	 <tr>
+		<td>2015-09-09</td>
+		<td>Discussion</td>
+		<td>None</td>
+        	<td><a style="color:black" href="https://vimeo.com/18216532">BBC Horizon: Fermat's Last Theorem</a></td>
+      	 </tr>
     	 </tbody>
 </table>
 </div>
