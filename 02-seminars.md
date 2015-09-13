@@ -44,6 +44,12 @@ alt="source: Wikipedia" align="middle" style="width: 200px;">
        		<td>Introduction to Cobordisms</td>
         	<td><a style="color:black" href="/assets/pdf/l3.pdf">Notes</a></td>
       	 </tr>
+	 <tr>
+		<td>2015-09-04</td>
+       		<td>Cobordism Constructions</td>
+        	<td><a style="color:black" href="/assets/pdf/l4.pdf">Notes</a></td>
+      	 </tr>
+
 	</tbody>
 </table>
 </div>
