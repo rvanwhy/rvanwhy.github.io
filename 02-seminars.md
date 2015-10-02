@@ -49,6 +49,21 @@ alt="source: Wikipedia" align="middle" style="width: 200px;">
        		<td>Cobordism Constructions</td>
         	<td><a style="color:black" href="/assets/pdf/l4.pdf">Notes</a></td>
       	 </tr>
+         <tr>
+		<td>2015-09-18</td>
+       		<td>Morse Theory: Prelims and Motivation</td>
+        	<td><a style="color:black" href="/assets/pdf/l5.pdf">Notes</a></td>
+       	 </tr>
+         <tr>
+		<td>2015-09-25</td>
+       		<td>Morse Theory: Introduction and Development</td>
+        	<td><a style="color:black" href="/assets/pdf/l6.pdf">Notes</a></td>
+      	 </tr>
+         <tr>
+		<td>2015-10-02</td>
+       		<td>Morse Functions on Smooth Manifold Triads</td>
+        	<td>Notes</td>
+      	 </tr>
 
 	</tbody>
 </table>
@@ -97,6 +112,25 @@ other speakers to give talks on constructivism.
 		<td>None</td>
         	<td><a style="color:black" href="https://vimeo.com/18216532">BBC Horizon: Fermat's Last Theorem</a></td>
       	 </tr>
+	 <tr>
+		<td>2015-09-16</td>
+		<td>Intuitionism and Constructivism</td>
+		<td>Tyler Cecil</td>
+        	<td>None</td>
+      	 </tr>
+ 	 <tr>
+		<td>2015-09-23</td>
+		<td>Platonism and The Pythagorean Theorem</td>
+		<td>None</td>
+        	<td>None</td>
+      	 </tr>
+	 <tr>
+		<td>2015-09-30</td>
+		<td>Crackpots, Crazies, and Geniuses</td>
+		<td>Randy Van Why</td>
+        	<td>Compute some <a style="color:black" href="http://www.ams.org/mathscinet/collaborationDistance.html">Erdös Numbers</a></td>
+      	 </tr>
+
     	 </tbody>
 </table>
 </div>
