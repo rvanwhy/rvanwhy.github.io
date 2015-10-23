@@ -61,9 +61,15 @@ alt="source: Wikipedia" align="middle" style="width: 200px;">
       	 </tr>
          <tr>
 		<td>2015-10-02</td>
-       		<td>Morse Functions on Smooth Manifold Triads</td>
-        	<td>Notes</td>
+       		<td>Introduction to the C2 topology</td>
+        	<td><a style="color:black" href="/assets/pdf/l7.pdf">Notes</a></td>
       	 </tr>
+         <tr>
+		<td>2015-10-09</td>
+       		<td>The existence of Morse functions on smooth manifold triads</td>
+        	<td><a style="color:black" href="/assets/pdf/l6.pdf">Notes</a></td>
+      	 </tr>
+
 
 	</tbody>
 </table>
