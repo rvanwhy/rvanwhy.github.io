@@ -10,13 +10,12 @@ permalink: about.html
     <h1>About me</h1>
     <hr>
     <p>I am currently studying Mathematics at the New Mexico Institute of Mining and Technology. I intend to graduate in May of 2016 and I hope to go on
-      to pursue a PhD in pure mathematics. My academic interests include Algebraic and Differential Geometry, Algebraic Topology, and Category Theory.
-      I also have interest in Computer Science and the mathematics behind programming languages. 
+      to pursue a PhD in pure mathematics. My academic interests include Differential Topology/Geometry and related fields. I have a soft spot for Algebraic
+      Topology and Category Theory. I also have interest in Computer Science and programming language theory and regularly attend a functional programming club. 
     </p>
-    <p>When I am not studying math, I enjoy bouldering, music, tea and meditation. Here are some of my favorite <a href="quotes.html">quotes</a>.
+    <p>When I am not studying math, I enjoy Go, music, tea, and meditation. Here are some of my favorite <a href="quotes.html">quotes</a>.
     </p>
 
     
-  </div>
-</div>
+  </div></div>
 
