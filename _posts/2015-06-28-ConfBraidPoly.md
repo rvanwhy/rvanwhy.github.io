@@ -2,6 +2,7 @@
 layout: post
 title: Configuration Spaces, Braid Groups, and Polynomials
 date: 2015-06-28
+category: 2015
 ---
 
 The following description more or less outlines what I have been and

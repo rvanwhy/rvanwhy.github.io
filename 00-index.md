@@ -8,11 +8,17 @@ permalink: index.html
 
 <div class="special jumbotron">
   <div class="container">
-    <img src="randy.png" style="width:150px;height:150px;text-align:center;">
+    <img src="randy.png" style="float:left;width:280px;height:350px;text-align:center;">
+    <div style="padding-top: 1.5cm;">
     <h1>Randy Van Why</h1>
     <hr>
-    <p>This website contains my blog as well as information about me. I am an undergraduate student studying Mathematics at New Mexico Tech. I am currently
-     finishing my fourth year at New Mexico Tech.</p>
+    <h2>"The purpose of this lecture is to explain some mathematical dreams..."</h3>
+    <h2>&rarr; V.I. Arnol'd</h3>
+    </div>
+    <div style="padding-top:1.5cm;align:left">
+    <p>Welcome to my website! Here you will find my blog as well as all the
+    other things important to me that I feel like sharing. </p>
+    </div>
   </div>
 </div>
 

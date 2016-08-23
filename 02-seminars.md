@@ -7,7 +7,7 @@ permalink: seminars.html
 
 My Seminars
 ==========
-I currently run two mathematics seminars at New Mexico Tech. Here is where you can find more information about them.
+The following are errata for my old seminars.
 
 Topics in Differential Topology
 -------------------------------
