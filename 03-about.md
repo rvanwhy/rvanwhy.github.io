@@ -9,7 +9,7 @@ permalink: about.html
     <img src="randy.png" style="float:right;width:280px;height:350px;text-align:center;">
     <h1>About me</h1>
     <hr>
-    <p>I currently live in Chicago persuing a graduate degree in Mathemtics at the University of Chicago. I live with my lovely wife <a href="http://kvzvanwhy.me/">Kailee Zingler</a> and our rambunctious cat Autumn</p>
+    <p>I currently live in Chicago persuing a graduate degree in Mathematics at the University of Chicago. I live with my lovely wife <a href="http://kvzvanwhy.me/">Kailee Zingler</a> and our rambunctious cat Autumn</p>
 
 <p>In summer 2016 I mentored three students for the University of Chicago REU. I also attended the University of Chicago <a href="https://math.uchicago.edu/~chicagotopology2/">Alebraic Topology Summer School</a> .</p>
 
