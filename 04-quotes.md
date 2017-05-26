@@ -16,55 +16,68 @@ title: My Favorite Quotes
   </div>
 
 <div class="container">
-  <hr>
 
 <div markdown="1">
-"Hoarders can get piles of money,
-
-That is true, hackers, that is true.
-
-But they cannot help their neighbors;
-
-That's not good, hackers, that's not good."
-
-― Richard Stallman, The Free Software Song
-
+Song Lyrics
+---
+* * *
 "I've seen my veins strain to be seen in plastinate noblesse.
 Das Kapital continues on well after cell death.
 I've seen my hair coiled in the grass of a ditch in Strathcona County.
 I've seen the oily underpass where the third search party found me...
 So come back down..."
-― Born Gold, Alabaster Body Worlds
 
+― *Born Gold, Alabaster Body Worlds*
+* * *
 "I have read the right books 
 to interpret your looks 
 you were knocking me down 
 with the palm of your eye"
-― Joanna Newsom
 
+― *Joanna Newsom*
+* * *
 "My moon, oh my moon
 Not even into
 Another eternity
 Will you stop your lovely orbiting."
-― Purity Ring
 
-
+― *Purity Ring, Begin Again*
+* * *
 "And the other day, this new friend of mine
 Said something to me
 'Just because something starts differently
 Doesn't mean it's worth less'"
-― Peter Bjorn and John
 
+― *Peter Bjorn and John, Objects of my affection*
+* * *
+"Hoarders can get piles of money,
+That is true, hackers, that is true.
+But they cannot help their neighbors;
+That's not good, hackers, that's not good."
 
-<h2>Written Word</h2>
-<hr>
+― *Richard Stallman, The Free Software Song*
+
+Written Word
+---
+* * *
 Om mani padme hum
-
+* * * 
 “Those who know do not speak. Those who speak do not know.” 
-― Lao Tzu, Tao Teh Ching
+
+― *Lao Tzu, Tao Teh Ching*
+* * *
+"And those who were seen dancing were thought to be insane by those who could not hear the music."
+
+― *Friedrich Nietzsche*
+
+Spoken Word
+---
+* * *
+"When you wake up and you really are enjoying discipline, do something that takes that. And, when you wake up in the morning and you just want to run around in the snow and write songs, do that."
+
+― *Björk*
 </div>
 
 </div>
-
 </div>
 

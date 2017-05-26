@@ -13,7 +13,7 @@ permalink: contact.html
     </p>
 
     <a href="mailto:randyvanwhy@gmail.com" class="btn btn-default">Email: randyvanwhy@gmail.com</a>
-    <a href="mailto:rvan_why@nmt.edu" class="btn btn-default">Academic Email: rvan_why@nmt.edu</a>
+    <a href="mailto:rvan_why@nmt.edu" class="btn btn-default">Academic Email: randyvawnhy@uchicago.edu</a>
     <a href="#" class="btn btn-default">Phone: 1-505-340-1703</a>
     <a href="https://github.com/rvanwhy" class="btn btn-default">My GitHub Page</a>
     <a href="https://keybase.io/rvanwhy" class="btn btn-default">My Keybase Profile</a>
