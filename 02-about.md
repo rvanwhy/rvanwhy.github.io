@@ -27,7 +27,7 @@ permalink: about.html
 <p>In 2012 I received my high school diploma from from the Albuquerque Institute for Math and Science. It was there I met my wife <a href="http://kvzvanwhy.me/">Kailee Zingler</a></p>
 
 
-<p>When I am not studying math, I enjoy <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>, music, tea, and meditation. Here are some of my favorite <a href="quotes.html">quotes</a>.
+<p>When I am not studying math, I enjoy <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>, music, tea, and meditation. Here are some of my favorite <a href="quotes">quotes</a>.
     </p>
 
     
