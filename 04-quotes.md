@@ -71,6 +71,7 @@ Om mani padme hum
 ― *Friedrich Nietzsche*
 
 "One must learn a great number of other—and often seemingly disconnected things—before one starts with the art itself."
+
 ― *Erich Fromm*
 
 Spoken Word
