@@ -17,7 +17,8 @@ permalink: index.html
     </div>
 
     <div style="padding-top:1.5cm;align:left">
-      <p>Welcome to my website! Here you will find my blog as well as all the other things important to me that I feel like sharing. </p>
+      <p>Welcome to my website! Here you will find my blog as well as all the other things important to me that I feel like sharing. Here is my
+      <a href="/assets/pdf/CV.pdf">CV</a>.</p>
     </div>
   </div>
 </div>
