@@ -11,6 +11,14 @@ permalink: about.html
     <hr>
     <p>I currently live in Chicago and I am pursuing a graduate degree in Mathematics at Northwestern University. I live with my lovely wife <a href="https://kzingler.github.io/">Kailee Zingler</a>.</p>
 
+<p> In June of 2018, I took my preliminary exams to conclude my first year of graduate school.
+
+<p> In April, I attended the <a href="https://www.math.uic.edu/gstgc2018/">Graduate Student Topology and Geometry Conference</a>.
+
+<p> In March, I attended the joint UChicago/Nothwestern <a href="https://math.uchicago.edu/~geometric_analysis/gaday2018"> Geometric Analysis Day</a>.
+
+<p> In January, I attended the <a href="https://www.math.uci.edu/~scgas/scgas-2018/2018.php">25th Southern California Geometric Analysis Seminar</a>.
+
 <p> In the fall of 2017, I started my PhD at Northwestern University. I also attended the <a href="https://www.math.ksu.edu/events/conference/2017_Midwest_Geometry/2017_Midwest_Geometry.html">2017
 midwest Geometry Conference</a>.
 
