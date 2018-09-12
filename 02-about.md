@@ -11,6 +11,9 @@ permalink: about.html
     <hr>
     <p>I currently live in Chicago and I am pursuing a graduate degree in Mathematics at Northwestern University. I live with my lovely wife <a href="https://kzingler.github.io/">Kailee Zingler</a>.</p>
 
+<p> In the summer of 2018, I spent 3 weeks in Japan for the <a href="https://www.msri.org/summer_schools/856">MSRI h-Principle Summer School</a>. I
+also mentored two students for the University of Chicago REU. You can read their papers <a href="https://math.uchicago.edu/~may/REU2017/">here</a> and <a href="https://math.uchicago.edu/~may/REU2017/">here</a>.
+
 <p> In June of 2018, I took my preliminary exams to conclude my first year of graduate school.
 
 <p> In April, I attended the <a href="https://www.math.uic.edu/gstgc2018/">Graduate Student Topology and Geometry Conference</a>.
