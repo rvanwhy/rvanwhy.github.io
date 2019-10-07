@@ -28,7 +28,7 @@ University.
 
 <p> In March of 2019, I attended the <a href="https://faculty.math.illinois.edu/~hquan4/GSTGC2019/index.html">Graduate Student Topology and Geometry Conference</a> at the University of Illinois at Urbana-Champaign.
 
-<p> In the spring of 2019, Alex Ortiz (MIT) and I read the frist three chapters of Farkas and Kra's <a href="https://www.springer.com/gp/book/9780387977034">book on Riemann Surfaces</a>.
+<p> In the spring of 2019, Alex Ortiz (MIT) and I read the first three chapters of Farkas and Kra's <a href="https://www.springer.com/gp/book/9780387977034">book on Riemann Surfaces</a>.
 
 <p> In the winter of 2018, I attended the <a href="http://www.faculty.virginia.edu/tmark/VTC2018/index.html">Virginia Topology Conference</a> at 
 the University of Virginia. I also helped organize a reading group on <a href="https://www.springer.com/gp/book/9783764357351">Gromov's Compactness theorem for Pseudoholomorphic Curves</a>.
