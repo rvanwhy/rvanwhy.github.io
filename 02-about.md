@@ -17,7 +17,7 @@ permalink: about.html
 
 <p> In August of 2019, I attended <a href="https://sites.northwestern.edu/snap2019/">SNAP 2019</a>.
 
-<p> In July of 2019, I visited CRM in Montreal for <a href="http://www.crm.umontreal.ca/sms/2019/index_e.php">Current Trends in Symplectic Topology</a>. I am in the group photo <a href="http://www.crm.umontreal.ca/sms/2019/img/_RPP9711.jpg">here</a>. I also visited the Fields Institute in Toronto for the <a href="http://www.fields.utoronto.ca/activities/19-20/mirrorsymmetry-gradsummerschool">Graduate Summer School on the Homological Algebra of Mirror Symmetry</a>.
+<p> In July of 2019, I visited CRM in Montreal for <a href="http://www.crm.umontreal.ca/sms/2019/index_e.php">Current Trends in Symplectic Topology</a>. I am in the group photo <a href="http://www.crm.umontreal.ca/sms/2019/img/_RPP9711.jpg">here</a>. I also visited the Fields Institute in Toronto for the <a href="http://www.fields.utoronto.ca/activities/19-20/mirrorsymmetry-gradsummerschool">Graduate Summer School on the Homological Algebra of Mirror Symmetry</a>. I am in the group photo <a href="http://www.fields.utoronto.ca/sites/default/files/resize/uploads/Graduate%20Summer%20School%20Group-750x450.jpg">here</a>
 
 <p> In June of 2019, I attended and gave a talk at <a href="https://kylerec.wordpress.com/2019/07/01/notes-from-kylerec-2019/">Kylerec 2019</a>.
 
