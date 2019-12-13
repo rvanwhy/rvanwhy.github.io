@@ -18,30 +18,40 @@ title: My Favorite Quotes
 <div class="container">
 
 <div markdown="1">
+Written Word
+---
+* * * 
+“Those who know do not speak. Those who speak do not know.” 
+
+― *Lao Tzu, Tao Teh Ching*
+* * * 
+“What then is time? If no one asks me, I know: if I wish to explain it to one that asketh, I know not.” 
+
+― *Augustine of Hippo*
+* * *
+"And those who were seen dancing were thought to be insane by those who could not hear the music."
+
+― *Friedrich Nietzsche*
+* * *
+"One must learn a great number of other—and often seemingly disconnected things—before one starts with the art itself."
+
+― *Erich Fromm*
+* * *
+"Inspiration exists, but it has to find you working."
+
+― *Pablo Picasso*
+* * *
+Om mani padme hum
+
 Song Lyrics
 ---
 * * *
-"I've seen my veins strain to be seen in plastinate noblesse.
-Das Kapital continues on well after cell death.
-I've seen my hair coiled in the grass of a ditch in Strathcona County.
-I've seen the oily underpass where the third search party found me...
-So come back down..."
+"Hoarders can get piles of money,
+That is true, hackers, that is true.
+But they cannot help their neighbors;
+That's not good, hackers, that's not good."
 
-― *Born Gold, Alabaster Body Worlds*
-* * *
-"I have read the right books 
-to interpret your looks 
-you were knocking me down 
-with the palm of your eye"
-
-― *Joanna Newsom*
-* * *
-"My moon, oh my moon
-Not even into
-Another eternity
-Will you stop your lovely orbiting."
-
-― *Purity Ring, Begin Again*
+― *Richard Stallman, The Free Software Song*
 * * *
 "And the other day, this new friend of mine
 Said something to me
@@ -50,32 +60,43 @@ Doesn't mean it's worth less'"
 
 ― *Peter Bjorn and John, Objects of my affection*
 * * *
-"Hoarders can get piles of money,
-That is true, hackers, that is true.
-But they cannot help their neighbors;
-That's not good, hackers, that's not good."
+"I have read the right books 
+to interpret your looks 
+you were knocking me down 
+with the palm of your eye"
 
-― *Richard Stallman, The Free Software Song*
-
-Written Word
----
+― *Joanna Newsom, Peach Plum Pear*
 * * *
-Om mani padme hum
-* * * 
-“Those who know do not speak. Those who speak do not know.” 
+"All that glitters is gold
+Don't believe what you've been told
+People lie, people love, people go
+But beauty lies, in every soul"
 
-― *Lao Tzu, Tao Teh Ching*
+― *Future Islands, A Dream of You and Me*
 * * *
-"And those who were seen dancing were thought to be insane by those who could not hear the music."
+"And on the last step I was dizzy
+Because there were stairs in all directions
+But I found another door
+And through the door there was the attic
+Without old clothes
+Without a ceiling
+Everything had opened wide
+Into the jaws of something bigger
+And suddenly I saw that I was
+Upstairs and outside and freezing on the roof
+Finally it had found me
+The answer, the feeling, and the truth
 
-― *Friedrich Nietzsche*
+That I'm small"
 
-"One must learn a great number of other—and often seemingly disconnected things—before one starts with the art itself."
-
-― *Erich Fromm*
+― *The Antlers, Stairs to the Attic*
 
 Spoken Word
 ---
+* * *
+"Beautiful people merge."
+
+― *Allen Love*
 * * *
 "When you wake up and you really are enjoying discipline, do something that takes that. And, when you wake up in the morning and you just want to run around in the snow and write songs, do that."
 
