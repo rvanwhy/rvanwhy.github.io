@@ -10,8 +10,18 @@ permalink: about.html
     <h1>About me</h1>
     <hr>
     <p>I currently live in Chicago and I am pursuing a graduate degree in Mathematics at Northwestern University. I live with my lovely wife <a href="https://kzingler.github.io/">Kailee Zingler</a>.</p>
+
+<p> In the fall of 2020, I will be the TA for two courses on Linear Algebra. 
+
+<p> In the summer of 2020, I attended the <a href="https://cmsa.fas.harvard.edu/2020-big-data-conference/">Harvard CSMA Big Data Conference</a>. I also attended the <a href="https://wp.math.berkeley.edu/pacificrim2020/titles-abstracts/">Eighth Pacific Rim Conference in Mathematics</a>. I participaed in the <a="https://math.mit.edu/~maggiehm/gtgaps_calendar">GTGAPS Seminar</a> and attended <a href="https://dzackgarza.com/GOATS/2020/June/">GOATS 2</a>. I mentored two students for the inaugural University of Chicago Virtual REU. You can read their papers <a href="http://math.uchicago.edu/~may/REU2020/">here</a> and <a href="http://math.uchicago.edu/~may/REU2020/">here</a>.
+
+<p>In the spring of 2020, I participated in and gave lectures for the <a href="https://www.math.ucla.edu/~archristian/seminars/s20/">UCLA Student Seminar on Flexibility in Contact Topology</a>. I also attended the <a href="https://researchseminars.org/seminar/WHSymplectic">Western Hemisphere Virtual Symplectic Seminar</a>.
 	
-<p> In the fall of 2019, I will be a visiting graduate student at the Institute for Advanced Study.
+<p> In the winter of 2019, Max Olander (Northwestern) and I read some <a href="http://library.msri.org/books/Book31/files/ball.pdf">notes</a> and 
+<a href="https://web.stanford.edu/~boyd/cvxbook/">a book</a> on convex geometry. I organized a broad-audience seminar on Geometry called 
+Geometry for All. I was also the TA for a course on Complex Analysis and a course on Linear Algebra.
+
+<p> In the fall of 2019, I was a visiting graduate student at the Institute for Advanced Study. I also gave several lectures on Weinstein Manifolds for the Topics in Geometry course at Northwestern University. Finally, I completed my qualifying exam for PhD candidacy. The topic of my examination was <a href="https://projecteuclid.org/euclid.jdg/1214459407"> Donaldson's divisor theorem.</a>
 
 <p> In the summer of 2019, I mentored three students for the University of Chicago's REU.
 
