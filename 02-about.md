@@ -70,7 +70,7 @@ midwest Geometry Conference</a>.
 <p>In the summer of 2015, I attended the University of Chicago's REU. There I worked under <a href="https://www.math.uchicago.edu/~farb/">Professor Benson Farb</a>. The research I conducted was joint work with <a href="http://www.mit.edu/~phaine/">Peter Haine</a> about certain spaces of polynomials. You can read my perspective <a href="https://math.uchicago.edu/~may/REU2015/REUPapers/VanWhy.pdf">here</a>.</p>
 
 <p>From 2012 to 2015, I worked as a student software engineer at <a href="https://www.passcal.nmt.edu/">IRIS/PASSCAL Instrument Center</a>. I wrote software that aided in the visualization and
-    management of seismological sensor data. I worked on a small team with <a href="https://www.passcal.nmt.edu/users/azevedo">Steve Azevedo</a> and <a href="https://www.passcal.nmt.edu/users/dhess">Derick Hess</a>. I started work at PASSCAL with the intent of persuing a career in Software Engineering. However, I left my position in order to focus on
+    management of seismological sensor data. I worked on a small team with <a href="https://www.passcal.nmt.edu/users/azevedo">Steve Azevedo</a> and <a href="https://www.passcal.nmt.edu/users/dhess">Derick Hess</a>. I started work at PASSCAL with the intent of pursuing a career in Software Engineering. However, I left my position in order to focus on
     my Mathematics studies.</p>
 
 <p> In 2012, I started school at The New Mexico Institute of Mining and Technology as a dual Mathematics and Computer Science major. I studied Computer Science for 3 years before finally deciding to leave the field in favor of pure mathematics.</p>
