@@ -9,7 +9,7 @@ permalink: about.html
     <img src="randy.png" style="float:right;width:280px;height:350px;text-align:center;">
     <h1>About me</h1>
     <hr>
-    <p>I currently live in Chicago and I am pursuing a graduate degree in Mathematics at Northwestern University. I live with my lovely wife <a href="https://kzingler.github.io/">Kailee Zingler</a>.</p>
+    <p>I currently live in Chicago and I am pursuing a graduate degree in Mathematics at Northwestern University.</p>
 
 <p> In the fall of 2020, I will be the TA for two courses on Linear Algebra. 
 
@@ -75,7 +75,7 @@ midwest Geometry Conference</a>.
 
 <p> In 2012, I started school at The New Mexico Institute of Mining and Technology as a dual Mathematics and Computer Science major. I studied Computer Science for 3 years before finally deciding to leave the field in favor of pure mathematics.</p>
 
-<p>In 2012, I received my high school diploma from from the Albuquerque Institute for Math and Science. It was there I met my wife <a href="https://kzingler.github.io/">Kailee Zingler</a>.</p>
+<p>In 2012, I received my high school diploma from from the Albuquerque Institute for Math and Science.</p>
 
 
 <p>When I am not studying math, I enjoy <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>, music, tea, and meditation. Here are some of my favorite <a href="quotes">quotes</a>.
