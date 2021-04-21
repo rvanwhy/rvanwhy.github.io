@@ -8,7 +8,7 @@ permalink: index.html
 
 <div class="special jumbotron">
   <div class="container">
-    <img src="randy.png" style="float:left;width:280px;height:350px;text-align:center;">
+    <img src="randy.png" style="float:left;width:350px;height:350px;text-align:center;">
     <div style="padding-top: 1.5cm;">
       <h1>Randy Van Why</h1>
       <hr>

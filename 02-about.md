@@ -6,7 +6,7 @@ permalink: about.html
 ---
 <div class="special jumbotron">
   <div class="container">
-    <img src="randy.png" style="float:right;width:280px;height:350px;text-align:center;">
+    <img src="randy.png" style="float:right;width:350px;height:350px;text-align:center;">
     <h1>About me</h1>
     <hr>
     <p>I currently live in Chicago and I am pursuing a graduate degree in Mathematics at Northwestern University.</p>
