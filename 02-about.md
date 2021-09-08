@@ -9,7 +9,20 @@ permalink: about.html
     <img src="randy.png" style="float:right;width:350px;height:350px;text-align:center;">
     <h1>About me</h1>
     <hr>
-    <p>I currently live in Chicago and I am pursuing a graduate degree in Mathematics at Northwestern University.</p>
+    <p>I currently live in Princeton and I am pursuing a graduate degree in Mathematics at Princeton University as a transfer student 
+	from Northwestern University. At the moment and I am working on my dissertation. My thesis topic is on contact graph 3-manifolds with 
+	applications to symplectic 4-manifolds.
+	
+
+<p> In the summer of 2021, I moved to Princeton University. I also gave a talk on disk bundle plumbings and lens spaces for the Graduate Student Seminar at Notre Dame.
+
+<p> In the spring of 2021, I attended the <a href="https://gstgc2021.iu.edu/">Graduate Student Topology and Geometry Conference</a> at Indiana 
+University. I also gave a talk on Milnor's Fibration Theorem for the Graduate Student Seminar at Notre Dame. I gave a talk on 
+disk bundle plumbings and lens spaces for the Northwestern University Geometry Seminar. <a href="/assets/pdf/disk_bundle_plumbings_and_lens_spaces_2021.pdf">Here are some rough notes<a> for that talk.
+
+<p> In the winter of 2020, I was the TA for two courses on abstract mathematics and proof methods. I also acted as coordinator for the Northwestern 
+University Graduate Student Seminar (NUGSS) as well as the Northwestern Graduate Student Symplectic Geometry Seminar. I gave a talk on Milnor's 
+Fibration Theorem for NUGSS.
 
 <p> In the fall of 2020, I will be the TA for two courses on Linear Algebra. 
 
