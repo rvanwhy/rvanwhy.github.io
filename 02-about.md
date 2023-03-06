@@ -9,10 +9,8 @@ permalink: about.html
     <img src="randy.png" style="float:right;width:350px;height:350px;text-align:center;">
     <h1>About me</h1>
     <hr>
-    <p>I currently live in Princeton and I am pursuing a graduate degree in Mathematics at Princeton University as a transfer student 
-	from Northwestern University. At the moment and I am working on my dissertation. My thesis topic is on contact graph 3-manifolds with 
 	applications to symplectic 4-manifolds.
-	
+    <p>I am currently at Princeton University finishing my PhD in Mathematics. My degree will be conferred by Northwestern University. At the moment and I am working on my dissertation. You can <a href=/research.html>read more about my thesis here</a>.
 
 <p> In the summer of 2021, I moved to Princeton University. I also gave a talk on disk bundle plumbings and lens spaces for the Graduate Student Seminar at Notre Dame.
 
