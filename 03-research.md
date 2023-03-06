@@ -4,9 +4,10 @@ current: research
 title: Research Interests
 permalink: research.html
 ---
-
+<div class="special jumbotron">
+  <div class="container">
 ## My Research
-<p> My research interests are in symplectic and contact geometry. I work on developing constructions for analyzing 4-dimensional symplectic manifolds and 3-dimensional contact manifolds from the so-called "[flexible perspective](https://link.springer.com/chapter/10.1007/978-3-030-13609-3_13)." I am interested in developing tools for what will eventually be known as *birational symplectic geometry*. My work takes inspiration from classical algebraic geometry, low dimensional topology, and complex analytic geometry. 
+<p> My research interests are in symplectic and contact geometry. I work on developing constructions for analyzing 4-dimensional symplectic manifolds and 3-dimensional contact manifolds from the so-called "<a href="https://link.springer.com/chapter/10.1007/978-3-030-13609-3_13">flexible perspective<a>." I am interested in developing tools for what will eventually be known as *birational symplectic geometry*. My work takes inspiration from classical algebraic geometry, low dimensional topology, and complex analytic geometry. 
 
 <p> My thesis has focused on the theory of contact 3-manifolds associated to symplectic divisors with normal crossings, which are symplectic analogs of normal crossing divisors from algebraic geometry.
 
