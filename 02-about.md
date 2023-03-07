@@ -9,7 +9,7 @@ permalink: about.html
     <img src="randy.png" style="float:right;width:350px;height:350px;text-align:center;">
     <h1>About me</h1>
     <hr>
-    <p>I am currently at Princeton University finishing my PhD in Mathematics. My degree will be conferred by Northwestern University. At the moment and I am working on my dissertation. You can <a href="research">read more about my research here</a>.
+    <p>I am currently at Princeton University finishing my PhD in Mathematics. My advisor is Professor <a href="https://www.math.princeton.edu/people/emmy-murphy">Emmy Murphy</a>. My degree will be conferred by Northwestern University. At the moment and I am working on my dissertation. You can <a href="research">read more about my research here</a>.
 
 <p> In the summer of 2021, I moved to Princeton University. I also gave a talk on disk bundle plumbings and lens spaces for the Graduate Student Seminar at Notre Dame.
 

@@ -14,7 +14,7 @@ permalink: index.html
       <hr>
       <h2>"The goal of this lecture is to explain some mathematical dreams..."</h2>
       <h2>&rarr; V.I. Arnol'd, <i>Symplectization, Complexication, and Mathematical
-Trinities<i></h2>
+Trinities</i></h2>
     </div>
 
     <div style="padding-top:1.5cm;align:left">
