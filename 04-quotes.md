@@ -56,21 +56,21 @@ That's not good, hackers, that's not good."
 "And the other day, this new friend of mine
 Said something to me
 'Just because something starts differently
-Doesn't mean it's worth less'"
+Doesn't mean it's worth less.'"
 
 ― *Peter Bjorn and John, Objects of my affection*
 * * *
 "I have read the right books 
 to interpret your looks 
 you were knocking me down 
-with the palm of your eye"
+with the palm of your eye."
 
 ― *Joanna Newsom, Peach Plum Pear*
 * * *
 "All that glitters is gold
 Don't believe what you've been told
 People lie, people love, people go
-But beauty lies, in every soul"
+But beauty lies, in every soul."
 
 ― *Future Islands, A Dream of You and Me*
 * * *
@@ -87,7 +87,7 @@ Upstairs and outside and freezing on the roof
 Finally it had found me
 The answer, the feeling, and the truth
 
-That I'm small"
+That I'm small."
 
 ― *The Antlers, Stairs to the Attic*
 
@@ -98,7 +98,7 @@ Spoken Word
 
 ― *Allen Love*
 * * *
-"When you wake up and you really are enjoying discipline, do something that takes that. And, when you wake up in the morning and you just want to run around in the snow and write songs, do that."
+"When you wake up and you really are enjoying discipline, do something that takes that. And, when you wake up in the morning and you just want to run around in the snow and write songs, do that too."
 
 ― *Björk*
 </div>
