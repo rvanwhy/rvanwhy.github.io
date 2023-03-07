@@ -12,8 +12,9 @@ permalink: index.html
     <div style="padding-top: 1.5cm;">
       <h1>Randy Van Why</h1>
       <hr>
-      <h2>"The purpose of this lecture is to explain some mathematical dreams..."</h2>
-      <h2>&rarr; V.I. Arnol'd</h2>
+      <h2>"The goal of this lecture is to explain some mathematical dreams..."</h2>
+      <h2>&rarr; V.I. Arnol'd, <i>Symplectization, Complexication, and Mathematical
+Trinities<i></h2>
     </div>
 
     <div style="padding-top:1.5cm;align:left">
