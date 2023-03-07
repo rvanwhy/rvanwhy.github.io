@@ -4,8 +4,7 @@ current: blog
 permalink: blog.html
 ---
 
-This is where I will sporadically post non-math writings. I go through phases of writing, deleting, and not-writing often but 
-have not had much time as I am finishing my PhD.
+This is where I will sporadically post non-math writings. I go through phases of writing, deleting, and not-writing.
 
 {% for post in site.posts  %}
 <h1>{{ post.title }}</h1>
