@@ -1,7 +1,7 @@
 ---
 layout: default
 current: home
-title: Randy's Blog
+title: My webpage
 permalink: index.html
 ---
 
