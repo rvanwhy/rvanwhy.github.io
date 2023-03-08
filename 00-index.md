@@ -13,7 +13,7 @@ permalink: index.html
       <h1>Randy Van Why</h1>
       <hr>
       <h2>"The goal of this lecture is to explain some mathematical dreams..."</h2>
-      <h2>&rarr; V.I. Arnol'd, <i>Symplectization, Complexication, and Mathematical
+      <h2>&rarr; V.I. Arnol'd, <i>Symplectization, Complexification, and Mathematical
 Trinities</i></h2>
     </div>
 
