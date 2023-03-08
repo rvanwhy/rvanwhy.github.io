@@ -80,23 +80,24 @@ midwest Geometry Conference</a>.
 
 <p> In June 2017, I graduated from the University of Chicago's MS-PSD program.
 
-<p>In the summer of 2016, I mentored three students for the University of Chicago's REU. You can read their papers <a href="https://math.uchicago.edu/~may/REU2016/REUPapers/Gaddy.pdf">here</a>, <a href="https://math.uchicago.edu/~may/REU2016/REUPapers/Morrison.pdf">here</a>, and <a href="https://math.uchicago.edu/~may/REU2016">here</a>. I also attended the University of Chicago <a href="https://math.uchicago.edu/~chicagotopology2/">Alebraic Topology Summer School</a> .</p>
+<p> In the summer of 2016, I mentored three students for the University of Chicago's REU. You can read their papers <a href="https://math.uchicago.edu/~may/REU2016/REUPapers/Gaddy.pdf">here</a>, <a href="https://math.uchicago.edu/~may/REU2016/REUPapers/Morrison.pdf">here</a>, and <a href="https://math.uchicago.edu/~may/REU2016">here</a>. I also attended the University of Chicago <a href="https://math.uchicago.edu/~chicagotopology2/">Alebraic Topology Summer School</a> .</p>
 
 <p>In 2016, I completed my Bachelor's Degree in Mathematics and graduated summa cum laude from the New Mexico Insitute of Mining and Technology.
    </p> 
 
-<p>In the summer of 2015, I attended the University of Chicago's REU. There I worked under <a href="https://www.math.uchicago.edu/~farb/">Professor Benson Farb</a>. The research I conducted was joint work with <a href="http://www.mit.edu/~phaine/">Peter Haine</a> about certain spaces of polynomials. You can read my perspective <a href="https://math.uchicago.edu/~may/REU2015/REUPapers/VanWhy.pdf">here</a>.</p>
+<p> In the summer of 2015, I attended the University of Chicago's REU. There I worked under <a href="https://www.math.uchicago.edu/~farb/">Professor Benson Farb</a>. The research I conducted was joint work with <a href="http://www.mit.edu/~phaine/">Peter Haine</a> about certain spaces of polynomials. You can read my perspective <a href="https://math.uchicago.edu/~may/REU2015/REUPapers/VanWhy.pdf">here</a>.</p>
 
-<p>From 2012 to 2015, I worked as a student software engineer at <a href="https://www.passcal.nmt.edu/">IRIS/PASSCAL Instrument Center</a>. I wrote software that aided in the visualization and
+<p> From 2012 to 2015, I worked as a student software engineer at <a href="https://www.passcal.nmt.edu/">IRIS/PASSCAL Instrument Center</a>. I wrote software that aided in the visualization and
     management of seismological sensor data. I worked on a small team with <a href="https://www.passcal.nmt.edu/users/azevedo">Steve Azevedo</a> and <a href="https://www.passcal.nmt.edu/users/dhess">Derick Hess</a>. I started work at PASSCAL with the intent of pursuing a career in Software Engineering. However, I left my position in order to focus on
     my Mathematics studies.</p>
 
 <p> In 2012, I started school at The New Mexico Institute of Mining and Technology as a dual Mathematics and Computer Science major. I studied Computer Science for 3 years before finally deciding to leave the field in favor of pure mathematics.</p>
 
-<p>In 2012, I received my high school diploma from from the Albuquerque Institute for Math and Science.</p>
+<p> In 2012, I received my high school diploma from from the Albuquerque Institute for Math and Science.</p>
 
 
-<p>When I am not studying math, I enjoy <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>, music, tea, and meditation. Here are some of my favorite <a href="quotes">quotes</a>.
-    </p>
+<p> When I am not studying math, I enjoy playing piano. I am self-taught and have been playing since 2006. I dabble in making music from time to time. I am a proponent of <a href="https://en.wikipedia.org/wiki/Free_software">free software</a>. Here are some of my favorite <a href="quotes">quotes</a>.
+
+</p>
 
     
