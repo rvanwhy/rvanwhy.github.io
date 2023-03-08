@@ -11,6 +11,14 @@ permalink: about.html
     <hr>
     <p>I am currently at Princeton University finishing my PhD in Mathematics. My advisor is Professor <a href="https://www.math.princeton.edu/people/emmy-murphy">Emmy Murphy</a>. My degree will be conferred by Northwestern University. At the moment and I am working on my dissertation. You can <a href="research">read more about my research here</a>.
 
+<p> In the spring of 2023, I attended the <a href="https://www.math.ksu.edu/about/events/conference/2023midwestgeometry/">2023 Midwest Geometry Conference</a> at Kansas State University.
+
+<p> In the fall of 2022, I gave a talk on my research for <a href="gtgaps.org">Geometric Topology Grad and Postdoc Seminar (GT GAPS).</a> I also gave a talk for the Notre Dame Graduate Student Seminar on the same topic.
+
+<p> In the summer of 2022, I attended the <a href="https://sites.google.com/view/sync-early-career-workshop/home">SYNC Early Career Workshop</a> at the University of California Davis.
+
+<p> In spring of 2022, I attended <a href="https://www.math.columbia.edu/~staff/KuranishiC1.htm">Deformations of Geometric Structures in Current Mathematics: "A celebration of the works of Masatake Kuranishi."</a> at Columbia University.
+
 <p> In the summer of 2021, I moved to Princeton University. I also gave a talk on disk bundle plumbings and lens spaces for the Graduate Student Seminar at Notre Dame.
 
 <p> In the spring of 2021, I attended the <a href="https://gstgc2021.iu.edu/">Graduate Student Topology and Geometry Conference</a> at Indiana 
@@ -21,15 +29,15 @@ disk bundle plumbings and lens spaces for the Northwestern University Geometry S
 University Graduate Student Seminar (NUGSS) as well as the Northwestern Graduate Student Symplectic Geometry Seminar. I gave a talk on Milnor's 
 Fibration Theorem for NUGSS.
 
-<p> In the fall of 2020, I will be the TA for two courses on Linear Algebra. 
+<p> In the fall of 2020, I was the TA for two courses on Linear Algebra. 
 
 <p> In the summer of 2020, I attended the <a href="https://cmsa.fas.harvard.edu/2020-big-data-conference/">Harvard CSMA Big Data Conference</a>. I also attended the <a href="https://wp.math.berkeley.edu/pacificrim2020/titles-abstracts/">Eighth Pacific Rim Conference in Mathematics</a>. I participated in the <a href="https://math.mit.edu/~maggiehm/gtgaps_calendar">GTGAPS Seminar</a> and attended <a href="https://dzackgarza.com/GOATS/2020/June/">GOATS 2</a>. I mentored two students for the inaugural University of Chicago Virtual REU. You can read their papers <a href="http://math.uchicago.edu/~may/REU2020/">here</a> and <a href="http://math.uchicago.edu/~may/REU2020/">here</a>.
 
 <p>In the spring of 2020, I participated in and gave lectures for the <a href="https://www.math.ucla.edu/~archristian/seminars/s20/">UCLA Student Seminar on Flexibility in Contact Topology</a>. I also attended the <a href="https://researchseminars.org/seminar/WHSymplectic">Western Hemisphere Virtual Symplectic Seminar</a>.
 	
-<p> In the winter of 2019, Max Olander (Northwestern) and I read some <a href="http://library.msri.org/books/Book31/files/ball.pdf">notes</a> and 
-<a href="https://web.stanford.edu/~boyd/cvxbook/">a book</a> on convex geometry. I organized a broad-audience seminar on Geometry called 
-Geometry for All. I was also the TA for a course on Complex Analysis and a course on Linear Algebra.
+<p> In the winter of 2019, I mentored Max Olander (Northwestern) through the Northwestern University Directed Reading Program (DRP). Max and I read <a href="http://library.msri.org/books/Book31/files/ball.pdf">some notes</a> and 
+<a href="https://web.stanford.edu/~boyd/cvxbook/">a book</a> on convex geometry. I organized a broad-audience 
+seminar on Geometry called "Geometry for All". I was also the TA for a course on Complex Analysis and a course on Linear Algebra.
 
 <p> In the fall of 2019, I was a visiting graduate student at the Institute for Advanced Study. I also gave several lectures on Weinstein Manifolds for the Topics in Geometry course at Northwestern University. Finally, I completed my qualifying exam for PhD candidacy. The topic of my examination was <a href="https://projecteuclid.org/euclid.jdg/1214459407"> Donaldson's divisor theorem.</a>
 
@@ -48,7 +56,7 @@ University.
 
 <p> In March of 2019, I attended the <a href="https://faculty.math.illinois.edu/~hquan4/GSTGC2019/index.html">Graduate Student Topology and Geometry Conference</a> at the University of Illinois at Urbana-Champaign.
 
-<p> In the spring of 2019, Alex Ortiz (MIT) and I read the first three chapters of Farkas and Kra's <a href="https://www.springer.com/gp/book/9780387977034">book on Riemann Surfaces</a>.
+<p> In the spring of 2019, I mentored Alex Ortiz (MIT) for the Northwestern University Directed Reading Program (DRP). Alex and I read the first three chapters of Farkas and Kra's <a href="https://www.springer.com/gp/book/9780387977034">book on Riemann Surfaces</a>.
 
 <p> In the winter of 2018, I attended the <a href="http://www.faculty.virginia.edu/tmark/VTC2018/index.html">Virginia Topology Conference</a> at 
 the University of Virginia. I also helped organize a reading group on <a href="https://www.springer.com/gp/book/9783764357351">Gromov's Compactness theorem for Pseudoholomorphic Curves</a>.

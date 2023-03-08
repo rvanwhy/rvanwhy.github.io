@@ -46,26 +46,12 @@ Om mani padme hum
 Song Lyrics
 ---
 * * *
-"Hoarders can get piles of money,
-That is true, hackers, that is true.
-But they cannot help their neighbors;
-That's not good, hackers, that's not good."
-
-― *Richard Stallman, The Free Software Song*
-* * *
 "And the other day, this new friend of mine
 Said something to me
 'Just because something starts differently
 Doesn't mean it's worth less.'"
 
 ― *Peter Bjorn and John, Objects of my affection*
-* * *
-"I have read the right books 
-to interpret your looks 
-you were knocking me down 
-with the palm of your eye."
-
-― *Joanna Newsom, Peach Plum Pear*
 * * *
 "All that glitters is gold
 Don't believe what you've been told
@@ -90,17 +76,37 @@ The answer, the feeling, and the truth
 That I'm small."
 
 ― *The Antlers, Stairs to the Attic*
+* * *
+"I have read the right books 
+to interpret your looks 
+you were knocking me down 
+with the palm of your eye."
+
+― *Joanna Newsom, Peach Plum Pear*
+* * *
+"Hoarders can get piles of money,
+That is true, hackers, that is true.
+But they cannot help their neighbors;
+That's not good, hackers, that's not good."
+
+― *Richard Stallman, The Free Software Song*
 
 Spoken Word
 ---
 * * *
-"Beautiful people merge."
+"Most of what we write on paper is junk brought there arbitrarily because we don't know how to say it well."
 
-― *Allen Love*
+― *Mikhail Gromov, Science Lives Interview 2017*
 * * *
 "When you wake up and you really are enjoying discipline, do something that takes that. And, when you wake up in the morning and you just want to run around in the snow and write songs, do that too."
 
 ― *Björk*
+* * *
+"We all walk our own path, but beautiful people merge."
+
+― *Allen Love*
+* * *
+
 </div>
 
 </div>
