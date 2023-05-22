@@ -47,15 +47,21 @@ Song Lyrics
 ---
 * * *
 "And the other day, this new friend of mine
+
 Said something to me
+
 'Just because something starts differently
+
 Doesn't mean it's worth less.'"
 
 ― *Peter Bjorn and John, Objects of my affection*
 * * *
 "All that glitters is gold
+
 Don't believe what you've been told
+
 People lie, people love, people go
+
 But beauty lies, in every soul."
 
 ― *Future Islands, A Dream of You and Me*
