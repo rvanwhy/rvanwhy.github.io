@@ -1,6 +1,6 @@
 ---
 layout: post
-current: blog
+current: Non-math Writing
 permalink: blog.html
 ---
 
