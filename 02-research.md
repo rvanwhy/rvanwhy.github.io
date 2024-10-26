@@ -7,6 +7,8 @@ permalink: research.html
 <div class="special jumbotron">
   <div class="container">
 <h1>My Research</h1>
+<p><a href="https://www.proquest.com/dissertations-theses/normal-crossing-divisors-symplectic-4-manifolds/docview/3097695937/se-2">My thesis.</a></p>
+    
 <p> My research interests are in symplectic and contact geometry. I work on developing constructions for analyzing 4-dimensional symplectic manifolds and 3-dimensional contact manifolds via differential topology. I am interested in developing tools for <a href="https://arxiv.org/abs/0906.3265">symplectic birational geometry</a> in dimension 4. My work takes inspiration from classical algebraic geometry, low dimensional topology, and complex analytic geometry. 
 
 <p> My dissertation is focused on the theory of contact 3-manifolds associated to symplectic divisors with normal crossings, which are symplectic analogs of normal crossing divisors from algebraic geometry. These contact 3-manifolds arise as the boundaries of regular symplectic neighborhoods of a special class of divisors known as concave divisors. Concave divisors are the symplectic analog of compactifying divisors in projective geometry. I have used my 
