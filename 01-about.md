@@ -9,7 +9,7 @@ permalink: about.html
     <img src="randy.png" style="float:right;width:350px;height:350px;text-align:center;">
     <h1>About me</h1>
     <hr>
-    <p>I am a President's Postdotoral Research Fellow at The Georgia Institute of Technology. I obtained my PhD in Mathematics from Northwestern University in 2024. You can read my thesis <a href="https://www.proquest.com/dissertations-theses/normal-crossing-divisors-symplectic-4-manifolds/docview/3097695937/se-2">here</a>. You can <a href="research">read more about my research here</a>.
+    <p>I am a President's Postdoctoral Research Fellow at The Georgia Institute of Technology. I obtained my PhD in Mathematics from Northwestern University in 2024. You can read my thesis <a href="https://www.proquest.com/dissertations-theses/normal-crossing-divisors-symplectic-4-manifolds/docview/3097695937/se-2">here</a>. You can <a href="research">read more about my research here</a>.
 
 <p> From Fall 2023 to Summer of 2024, I was finishing my PhD at Northwestern University. From summer of 2021 to the summer of 2023, I was at Princeton University. 
 
