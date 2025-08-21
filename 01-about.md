@@ -9,7 +9,13 @@ permalink: about.html
     <img src="randy.png" style="float:right;width:350px;height:350px;text-align:center;">
     <h1>About me</h1>
     <hr>
-    <p>I am currently at Princeton University finishing my PhD in Mathematics. My advisor is Professor <a href="https://www.math.princeton.edu/people/emmy-murphy">Emmy Murphy</a>. My degree will be conferred by Northwestern University. At the moment and I am working on my dissertation. You can <a href="research">read more about my research here</a>.
+    <p>I am currently at Northwestern University finishing my PhD in Mathematics. My advisor is Professor <a href="https://www.math.princeton.edu/people/emmy-murphy">Emmy Murphy</a>. My degree will be conferred by Northwestern University. At the moment and I am working on my dissertation. You can <a href="research">read more about my research here</a>.
+
+<p> In the summer of 2023, I attended the <a href="https://topology.franklinresearch.uga.edu/GTC2023">Georgia Topology Conference</a> at University of Georgia.
+
+I also attended the
+<a href="https://sites.google.com/view/tw2023/home">2023 Trisectors Workshop</a> at University of California, Davis.
+
 
 <p> In the spring of 2023, I attended the <a href="https://www.math.ksu.edu/about/events/conference/2023midwestgeometry/">2023 Midwest Geometry Conference</a> at Kansas State University.
 
