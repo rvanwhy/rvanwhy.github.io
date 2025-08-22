@@ -7,7 +7,14 @@ permalink: research.html
 <div class="special jumbotron">
   <div class="container">
 <h1>My Research</h1>
-<p><a href="https://www.proquest.com/dissertations-theses/normal-crossing-divisors-symplectic-4-manifolds/docview/3097695937/se-2">My thesis.</a></p>
+
+<h2>Papers and Preprints</h2>
+
+<p><a href="https://arxiv.org/abs/2507.22290">
+   Non Affine Stein Manifolds and Normal Crossing Divisors 
+</a>
+      
+<p><a href="/assets/pdf/thesis.pdf">My thesis.</a></p>
     
 <p> My research interests are in symplectic and contact geometry. I work on developing constructions for analyzing 4-dimensional symplectic manifolds and 3-dimensional contact manifolds via differential topology. I am interested in developing tools for <a href="https://arxiv.org/abs/0906.3265">symplectic birational geometry</a> in dimension 4. My work takes inspiration from classical algebraic geometry, low dimensional topology, and complex analytic geometry. 
 
