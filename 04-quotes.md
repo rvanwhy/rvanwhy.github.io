@@ -68,27 +68,39 @@ But beauty lies, in every soul."
 * * *
 "And on the last step I was dizzy
 
+
 Because there were stairs in all directions
+
 
 But I found another door
 
+
 And through the door there was the attic
+
 
 Without old clothes
 
+
 Without a ceiling
+
 
 Everything had opened wide
 
+
 Into the jaws of something bigger
+
 
 And suddenly I saw that I was
 
+
 Upstairs and outside and freezing on the roof
+
 
 Finally it had found me
 
+
 The answer, the feeling, and the truth
+
 
 That I'm small."
 
@@ -96,9 +108,12 @@ That I'm small."
 * * *
 "I have read the right books 
 
+
 to interpret your looks
+
  
 you were knocking me down
+
  
 with the palm of your eye."
 
@@ -106,9 +121,12 @@ with the palm of your eye."
 * * *
 "Hoarders can get piles of money,
 
+
 That is true, hackers, that is true.
 
+
 But they cannot help their neighbors;
+
 
 That's not good, hackers, that's not good."
 
