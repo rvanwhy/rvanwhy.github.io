@@ -11,8 +11,8 @@ permalink: research.html
 <h2>Papers and Preprints</h2>
 
 <p><a href="https://arxiv.org/abs/2507.22290">
-   Non Affine Stein Manifolds and Normal Crossing Divisors 
-</a>
+   Non Affine Stein Manifolds and Normal Crossing Divisors: 
+</a> In this paper, it is demonstrated that there are Stein manifolds that admit normal crossing divisor compactifications despite being neither affine nor quasi-projective. This is achieved via the study of contact boundaries of neighborhoods of symplectic normal crossing divisors via a contact-geometric analog of W. Neumann's plumbing calculus. In particular, conditions are given under which the neighborhood is determined by the contact structure on its boundary.
       
 <p><a href="/assets/pdf/thesis.pdf">My thesis.</a></p>
     
