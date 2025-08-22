@@ -18,7 +18,7 @@ I hope to give examples of <u>non-affine symplectic manifolds</u> which are symp
 <h2>Papers and Preprints</h2>
 
 <p><a href="">
-Stein Compactifications and Lefschetz Structures:
+Stein Compactifications and Lefschetz Structures (in preparation):
 </a> Joint work with Sierra Knavel.  
 
 <p><a href="https://arxiv.org/abs/2507.22290">
