@@ -11,7 +11,20 @@ permalink: about.html
     <hr>
     <p>I am a President's Postdoctoral Research Fellow at The Georgia Institute of Technology. I obtained my PhD in Mathematics from Northwestern University in 2024. You can read my thesis <a href="https://www.proquest.com/dissertations-theses/normal-crossing-divisors-symplectic-4-manifolds/docview/3097695937/se-2">here</a>. You can <a href="research">read more about my research here</a>.
 
-<p> From Fall 2023 to Summer of 2024, I was finishing my PhD at Northwestern University. From summer of 2021 to the summer of 2023, I was at Princeton University. 
+<p> Since the fall of 2024, I have been co-organizer for the Joint GT-UGA Geometry Topology Seminar at Georgia Tech.
+
+<p> In the spring of 2025, I co-organized a Special Session on Special Session on Invariants in Geometric Topology: Low Dimensions and Beyond at the 2025 AMS Eastern Sectional at Clemson University.
+    
+<p> In the winter of 2024, I co-organized the <a href="https://etnyre.math.gatech.edu/TechTopology/2024/">2024 Tech Topology Conference</a> at Georgia Tech.
+
+<p> In the summer of 2024, I defended my dissertation and obtained my PhD. from Northwestern University. I also attended the <a href="https://sites.google.com/view/workshop2024/home">41st Workshop in Geometric Topology</a> at Calvin University.
+
+<p> In the spring of 2024, I attended the <a href="https://sites.google.com/view/gstgc2024msu/home">2024 Graduate Student Geometry Topology Conference</a> at Michigan State University.
+
+<p> In the winter of 2023, I attended the <a href="https://etnyre.math.gatech.edu/TechTopology/2023/">2023 Tech Topology Conference</a> at the Georgia Institute of Technology.
+
+
+<p> In the summer of 2023, I attended the <a href="https://topology.franklinresearch.uga.edu/GTC2023">2023 Georgia Topology Conference</a> at the University of Georgia. I also attended the <a href="https://sites.google.com/view/tw2023/home">2023 Trisectors Workshop</a> at the University of California Davis.
 
 <p> In the spring of 2023, I attended the <a href="https://www.math.ksu.edu/about/events/conference/2023midwestgeometry/">2023 Midwest Geometry Conference</a> at Kansas State University.
 
