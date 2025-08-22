@@ -13,7 +13,7 @@ permalink: about.html
 
 <p> Since the fall of 2024, I have been co-organizer for the Joint GT-UGA Geometry Topology Seminar at Georgia Tech.
 
-<p> In the spring of 2025, I co-organized a Special Session on Special Session on Invariants in Geometric Topology: Low Dimensions and Beyond at the 2025 AMS Eastern Sectional at Clemson University.
+<p> In the spring of 2025, I co-organized a <a href="https://www.ams.org/meetings/sectional/2324_special.html">Special Session on Invariants in Geometric Topology: Low Dimensions and Beyond</a> at the 2025 AMS Eastern Sectional at Clemson University.
     
 <p> In the winter of 2024, I co-organized the <a href="https://etnyre.math.gatech.edu/TechTopology/2024/">2024 Tech Topology Conference</a> at Georgia Tech.
 
