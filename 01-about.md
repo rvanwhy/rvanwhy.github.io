@@ -9,8 +9,10 @@ permalink: about.html
     <img src="randy.png" style="float:right;width:350px;height:350px;text-align:center;">
     <h1>About me</h1>
     <hr>
-    <p>I am a President's Postdoctoral Research Fellow at The Georgia Institute of Technology. I obtained my PhD in Mathematics from Northwestern University in 2024. You can read my thesis <a href="https://www.proquest.com/dissertations-theses/normal-crossing-divisors-symplectic-4-manifolds/docview/3097695937/se-2">here</a>. You can <a href="research">read more about my research here</a>.
+    <p>I am a President's Postdoctoral Research Fellow at The Georgia Institute of Technology. You can <a href="research">read more about my research here</a>.
 
+I obtained my PhD in Mathematics from Northwestern University in 2024. You can read my thesis <a href="https://www.proquest.com/dissertations-theses/normal-crossing-divisors-symplectic-4-manifolds/docview/3097695937/se-2">here</a>.
+        
 <p> Since the fall of 2024, I have been co-organizer for the Joint GT-UGA Geometry Topology Seminar at Georgia Tech.
 
 <p> In the spring of 2025, I co-organized a <a href="https://www.ams.org/meetings/sectional/2324_special.html">Special Session on Invariants in Geometric Topology: Low Dimensions and Beyond</a> at the 2025 AMS Eastern Sectional at Clemson University.
@@ -22,7 +24,6 @@ permalink: about.html
 <p> In the spring of 2024, I attended the <a href="https://sites.google.com/view/gstgc2024msu/home">2024 Graduate Student Geometry Topology Conference</a> at Michigan State University.
 
 <p> In the winter of 2023, I attended the <a href="https://etnyre.math.gatech.edu/TechTopology/2023/">2023 Tech Topology Conference</a> at the Georgia Institute of Technology.
-
 
 <p> In the summer of 2023, I attended the <a href="https://topology.franklinresearch.uga.edu/GTC2023">2023 Georgia Topology Conference</a> at the University of Georgia. I also attended the <a href="https://sites.google.com/view/tw2023/home">2023 Trisectors Workshop</a> at the University of California Davis.
 

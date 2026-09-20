@@ -17,6 +17,15 @@ I hope to give examples of <u>non-affine symplectic manifolds</u> which are symp
 
 <h2>Papers and Preprints</h2>
 
+<p><a href="/assets/pdf/kahler_ricci.pdf">
+Kähler-Ricci Flow is Symplectic Deflation Plus and Exact Symplectic Deformation
+</a>
+We demonstrate that Kähler-Ricci flow on a Fano surface decomposes as a symplectic deflation along a plurianticanonical divisor plus an exact symplectic deformation in the divisor complement. We apply this decomposition to the study of certain projective bundles. We establish the optimal decay rate in the setting of Song, Székelyhidi, and Weinkove
+for a family of toric metrics which match the cohomological profile of Kähler-Ricci flow. In
+doing so, we identify a C2-obstruction to proving the optimal decay rate in the setting of
+ruled toric surfaces. We present these ideas as a new symplectic-topological approach to the
+study of Kähler-Ricci flow.
+
 <p><a href="">
 Stein Compactifications and Lefschetz Structures (in preparation):
 </a> Joint work with Sierra Knavel.  
