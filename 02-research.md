@@ -34,7 +34,7 @@ arXiv
 Stein Compactifications and Lefschetz Fibrations (in preparation):
 </a> Joint with <a href="https://sites.google.com/view/sierraknavel">Sierra Knavel-Runner</a>. We show that a Positive Allowable Lefschetz Fibration (PALF) may be compactified to a Lefschetz fibration over S^2 if a certain monodromy condition holds. This compactification can be achieved by attaching the neighborhood of a symplectic normal crossing divisor, effectively completing the PALF. We apply our results to the study of compactifications of Stein manifolds.
 
-<h1>My Research</h1>
+<h2>Research Summary</h2>
 <p> My research interests are in advancing the understanding of complex birational geometry from the perspective of symplectic topology, contact geometry, low-dimensional topology, and geometric analysis. 
 
 <p> I study symplectic manifolds such as Kahler varieties through the symplectic topology of <a href="https://arxiv.org/abs/2101.05981">normal crossing divisors</a>. These are symplectic generalizations of normal crossing divisors from algebraic geometry. I have contributed to the understanding of birational geometry by demonstrating that there are Stein manifolds which admit normal crossing divisor compactifications despite being neither affine nor quasi-projective. I have developed a divisor-centered approach to Kahler-Ricci flow and work to contribute to the field via the symplectic topology of divisor complements, which are exact symplectic manifolds.
