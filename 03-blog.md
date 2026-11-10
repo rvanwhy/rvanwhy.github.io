@@ -4,16 +4,20 @@ current: Non-math Writing
 permalink: blog.html
 ---
 
-<p>This is where I will sporadically post non-math writings.
-I go through phases of writing, deleting, and not-writing.</p>
+This is where I will sporadically post non-math writings.
+I go through phases of writing, deleting, and not-writing.
 
 <style>
-  .blog-grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 40px;
-    align-items: start;
-  }
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 40px;
+  align-items: start;
+
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 25px;
+}
 
   .blog-post {
     padding: 15px;
