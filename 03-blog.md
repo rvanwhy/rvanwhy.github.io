@@ -39,7 +39,7 @@ I go through phases of writing, deleting, and not-writing.</p>
 {% for post in site.posts %}
 
   <article class="blog-post">
-    <h1>{{ post.title }}</h1>
+    <h2>{{ post.title }}</h2>
     <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
 
     {{ post.content }}
