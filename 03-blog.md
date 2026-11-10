@@ -20,15 +20,29 @@ I go through phases of writing, deleting, and not-writing.</h5>
   padding: 25px;
 }
 
-  .blog-post {
-    padding: 15px;
-  }
-
   @media (max-width: 768px) {
     .blog-grid {
       grid-template-columns: 1fr;
     }
   }
+
+    .blog-post {
+  font-size: 1rem;
+  line-height: 1.5;
+  padding: 15px;
+}
+
+.blog-post p {
+  font-size: inherit;
+}
+
+.blog-post h1 {
+  font-size: 2rem;
+}
+
+.blog-post h4 {
+  font-size: 1rem;
+}
 </style>
 
 <div class="blog-grid">
