@@ -27,7 +27,7 @@ I go through phases of writing, deleting, and not-writing.</p>
   }
 
     .blog-post {
-  font-size: 1rem;
+  font-size: 21px;
   line-height: 1.5;
   padding: 15px;
 }
