@@ -5,8 +5,8 @@ permalink: blog.html
 ---
 <div class="container">
 
-<p> This is where I will sporadically post non-math writings.
-I go through phases of writing, deleting, and not-writing.</p>
+<h5> This is where I will sporadically post non-math writings.
+I go through phases of writing, deleting, and not-writing.</h5>
 
 <style>
 .blog-grid {
