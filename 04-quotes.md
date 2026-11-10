@@ -31,7 +31,7 @@ Written Word
 * * *
 "And those who were seen dancing were thought to be insane by those who could not hear the music."
 
-― *Friedrich Nietzsche*
+― *Germaine de Staël*
 * * *
 "One must learn a great number of other—and often seemingly disconnected things—before one starts with the art itself."
 
