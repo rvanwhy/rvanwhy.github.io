@@ -4,6 +4,7 @@ current: Non-math Writing
 permalink: blog.html
 ---
 <div class="special jumbotron">
+<div class="container">
 
 <p> This is where I will sporadically post non-math writings.
 I go through phases of writing, deleting, and not-writing.</p>
@@ -47,5 +48,5 @@ I go through phases of writing, deleting, and not-writing.</p>
 {% endfor %}
 
 </div>
-
+</div>
 </div>
