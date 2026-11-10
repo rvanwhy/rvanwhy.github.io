@@ -3,9 +3,10 @@ layout: default
 current: Non-math Writing
 permalink: blog.html
 ---
+<div class="container">
 
-This is where I will sporadically post non-math writings.
-I go through phases of writing, deleting, and not-writing.
+<p> This is where I will sporadically post non-math writings.
+I go through phases of writing, deleting, and not-writing.</p>
 
 <style>
 .blog-grid {
@@ -42,5 +43,7 @@ I go through phases of writing, deleting, and not-writing.
   </article>
 
 {% endfor %}
+
+</div>
 
 </div>
