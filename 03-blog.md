@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: default
 current: Non-math Writing
 permalink: blog.html
 ---
 
-<p>This is where I will sporadically post non-math writings. I go through phases of writing, deleting, and not-writing.
+<p>This is where I will sporadically post non-math writings. I go through phases of writing, deleting, and not-writing.</p>
 
 {% for post in site.posts  %}
 <h1>{{ post.title }}</h1>
