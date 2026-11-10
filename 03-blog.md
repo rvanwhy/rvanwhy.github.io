@@ -3,10 +3,10 @@ layout: default
 current: Non-math Writing
 permalink: blog.html
 ---
-<div class="container">
+<div class="special jumbotron">
 
-<h5> This is where I will sporadically post non-math writings.
-I go through phases of writing, deleting, and not-writing.</h5>
+<p> This is where I will sporadically post non-math writings.
+I go through phases of writing, deleting, and not-writing.</p>
 
 <style>
 .blog-grid {
