@@ -9,11 +9,22 @@ permalink: about.html
     <img src="randy.png" style="float:right;width:350px;height:350px;text-align:center;">
     <h1>About me</h1>
     <hr>
-    <p>I am a President's Postdoctoral Research Fellow at The Georgia Institute of Technology. You can <a href="research">read more about my research here</a>.
+    <p>I am a President's Postdoctoral Research Fellow and Visiting Assistant Professor at The Georgia Institute of Technology. You can read more about <a href="research">my research</a> here. I obtained my PhD in Mathematics from Northwestern University in 2024 under the direction of John Etnyre (Georgia Institute of Technology) and Eric Zaslow (Northwestern). Previously, I worked with Professor Emmy Murphy (University of Toronto).
 
-I obtained my PhD in Mathematics from Northwestern University in 2024. You can read my thesis <a href="https://www.proquest.com/dissertations-theses/normal-crossing-divisors-symplectic-4-manifolds/docview/3097695937/se-2">here</a>.
-        
-<p> Since the fall of 2024, I have been co-organizer for the Joint GT-UGA Geometry Topology Seminar at Georgia Tech.
+<p> In the fall of 2026, I was a referee for the Batch 3 Benchmark Workshop organized by the <a href="https://1stproof.org/">1st Proof Foundation</a>. I refereed 4 mathematical papers submitted by frontier AI firms and open source projects. You can read the full report <a href="https://1stproof.org/assets/docs/batch3-report.pdf">here</a>.
+
+<p> In 2025 and 2026, I gave a series of of talks on my research at the University of Georgia, Columbia University, Rice University, University of Alabama, and The Simons Center for Geometry and Physics.
+
+<p> I have been co-organizer for the Joint GT-UGA Geometry Topology Seminar since fall of 2024.
+
+<p> In the summer of 2026, I participated in the <a href="https://topology.franklinresearch.uga.edu/2026GTC">2026 Georgia Topology Summer School and Conference</a> at the University of Georgia.
+
+<p> In the spring of 2026, I participated in the <a href="https://scgp.stonybrook.edu/archives/45735">Workshop on Contact Geometry, General Relativity, and Thermodynamics</a> at The Simons Center for Geometry and Physics.
+
+<p> In the winter of 2025, I co-organized the <a href="https://etnyre.math.gatech.edu/TechTopology/2025/">2025 Tech Topology Conference</a> at Georgia Tech. I also contributed a talk to the conference.   
+
+<p> In the summer of 2025, I participated in the <a href="https://topology.franklinresearch.uga.edu/2025GITC">2025 Georgia International Topology Conference</a> at the University of Georgia. I also 
+    gave at talk at the <a href="https://sites.google.com/view/mwgt2025/overview">Midwest Panorama of Geometry and Topology</a> at the University of Iowa.
 
 <p> In the spring of 2025, I co-organized a <a href="https://www.ams.org/meetings/sectional/2324_special.html">Special Session on Invariants in Geometric Topology: Low Dimensions and Beyond</a> at the 2025 AMS Eastern Sectional at Clemson University.
     
