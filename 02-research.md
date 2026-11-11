@@ -12,7 +12,7 @@ permalink: research.html
 <h2>Papers and Preprints</h2>
 
 <p><a href="https://arxiv.org/abs/2610.24825">
-Kähler-Ricci Flow is Symplectic Deflation Plus and Exact Symplectic Deformation (Submitted)
+Kähler-Ricci Flow is Symplectic Deflation Plus and Exact Symplectic Deformation:
 </a>
 We demonstrate that Kähler-Ricci flow on a Fano surface decomposes as a symplectic deflation along a plurianticanonical divisor plus an exact symplectic deformation in the divisor complement. We apply this decomposition to the study of certain projective bundles. We establish the optimal decay rate in the setting of Song, Székelyhidi, and Weinkove
 for a family of toric metrics which match the cohomological profile of Kähler-Ricci flow. In
@@ -25,7 +25,7 @@ arXiv
 </a>]
 
 <p><a href="https://arxiv.org/abs/2507.22290">
-   Non Affine Stein Manifolds and Normal Crossing Divisors (Submitted): 
+   Non Affine Stein Manifolds and Normal Crossing Divisors: 
 </a> In this paper, it is demonstrated that there are Stein manifolds that admit normal crossing divisor compactifications despite being neither affine nor quasi-projective. This is achieved via the study of contact boundaries of neighborhoods of symplectic normal crossing divisors via a contact-geometric analog of W. Neumann's plumbing calculus. In particular, conditions are given under which the neighborhood is determined by the contact structure on its boundary. [<a href="/assets/pdf/non_affine.pdf">
 pdf
 </a>][<a href="https://arxiv.org/abs/2507.22290">
