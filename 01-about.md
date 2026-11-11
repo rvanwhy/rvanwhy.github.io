@@ -11,7 +11,7 @@ permalink: about.html
     <hr>
     <p>I am a President's Postdoctoral Research Fellow and Visiting Assistant Professor at The Georgia Institute of Technology. You can read more about <a href="research">my research</a> here. I obtained my PhD in Mathematics from Northwestern University in 2024 under the direction of John Etnyre (Georgia Institute of Technology) and Eric Zaslow (Northwestern). Previously, I worked with Professor Emmy Murphy (University of Toronto).
 
-<p> In the fall of 2026, I was a referee for the Batch 3 Benchmark Workshop organized by the <a href="https://1stproof.org/">1st Proof Foundation</a>. I refereed 4 mathematical papers submitted by frontier AI firms and open source projects. You can read the full report <a href="https://1stproof.org/assets/docs/batch3-report.pdf">here</a>.
+<p> In the fall of 2026, I was a referee for the Batch 3 Benchmark Workshop organized by the <a href="https://1stproof.org/">1st Proof Foundation</a>. I reviewed 4 mathematical papers submitted by frontier AI firms and open source projects. You can read the full report <a href="https://1stproof.org/assets/docs/batch3-report.pdf">here</a>.
 
 <p> In 2025 and 2026, I gave a series of of talks on my research at the University of Georgia, Columbia University, Rice University, University of Alabama, and The Simons Center for Geometry and Physics.
 
