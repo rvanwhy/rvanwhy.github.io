@@ -11,7 +11,7 @@ permalink: about.html
     <hr>
     <p>I am a President's Postdoctoral Research Fellow and Visiting Assistant Professor at The Georgia Institute of Technology. You can read more about <a href="research">my research</a> here. I obtained my PhD in Mathematics from Northwestern University in 2024 under the direction of John Etnyre (Georgia Institute of Technology) and Eric Zaslow (Northwestern). Previously, I worked with Professor Emmy Murphy (University of Toronto).
 
-<p> In the fall of 2026, I was a referee for the Batch 3 Benchmark Workshop organized by the <a href="https://1stproof.org/">1st Proof Foundation</a>. I reviewed 4 mathematical papers submitted by frontier AI firms and open source projects. You can read the full report <a href="https://1stproof.org/assets/docs/batch3-report.pdf">here</a>.
+<p> In the fall of 2026, I was a referee for the Batch 3 Benchmark Workshop at the Institute for Computer-Aided Reasoning in Mathematics (ICARM) at Carnegie Mellon University, organized by the <a href="https://1stproof.org/">1st Proof Foundation</a>. I reviewed 4 mathematical papers submitted by frontier AI firms and open source projects. You can read the full report <a href="https://1stproof.org/assets/docs/batch3-report.pdf">here</a>.
 
 <p> In 2025 and 2026, I gave a series of of talks on my research at the University of Georgia, Columbia University, Rice University, University of Alabama, and The Simons Center for Geometry and Physics.
 
@@ -114,11 +114,11 @@ midwest Geometry Conference</a>.
 
 <p> In the summer of 2015, I attended the University of Chicago's REU. There I worked under <a href="https://www.math.uchicago.edu/~farb/">Professor Benson Farb</a>. The research I conducted was joint work with <a href="http://www.mit.edu/~phaine/">Peter Haine</a> about certain spaces of polynomials. You can read my perspective <a href="https://math.uchicago.edu/~may/REU2015/REUPapers/VanWhy.pdf">here</a>.</p>
 
-<p> From 2012 to 2015, I worked as a student software engineer at <a href="https://www.passcal.nmt.edu/">IRIS/PASSCAL Instrument Center</a>. I wrote software that aided in the visualization and
+<p> From 2012 to 2015, I worked as a software engineer at <a href="https://www.passcal.nmt.edu/">IRIS/PASSCAL Instrument Center</a>. I wrote software that aided in the visualization and
     management of seismological sensor data. I worked on a small team with <a href="https://www.passcal.nmt.edu/users/azevedo">Steve Azevedo</a> and <a href="https://www.passcal.nmt.edu/users/dhess">Derick Hess</a>. I started work at PASSCAL with the intent of pursuing a career in Software Engineering. However, I left my position in order to focus on
     my Mathematics studies.</p>
 
-<p> In 2012, I started school at The New Mexico Institute of Mining and Technology as a dual Mathematics and Computer Science major. I studied Computer Science for 3 years before finally deciding to leave the field in favor of pure mathematics.</p>
+<p> In 2012, I began my undergraduate studies at The New Mexico Institute of Mining and Technology as a dual Mathematics and Computer Science major. I studied Computer Science for 3 years before finally deciding to leave the field in favor of pure mathematics.</p>
 
 <p> In 2012, I received my high school diploma from from the Albuquerque Institute for Math and Science.</p>
 
