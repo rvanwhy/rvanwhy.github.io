@@ -7,7 +7,7 @@ permalink: research.html
 <div class="special jumbotron">
   <div class="container">
 
-<p>I am a Visiting Assistant Professor at the Georgia Institute of Technology. My research advisor is Professor <a href="https://etnyre.math.gatech.edu/">John Etnyre.</a> My research is in symplectic and contact geometry and complex manifolds.
+<p>I am a Visiting Assistant Professor at the Georgia Institute of Technology. My research mentor is Professor <a href="https://etnyre.math.gatech.edu/">John Etnyre.</a> My research is in symplectic and contact geometry and complex manifolds.
 
 <h2>Papers and Preprints</h2>
 
