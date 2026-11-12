@@ -40,5 +40,5 @@ Stein Compactifications and Lefschetz Fibrations (in preparation):
 
 <p><a href="/assets/pdf/Thesis.pdf">My thesis.</a></p>
 
-<p> My dissertation focused on the theory of contact 3-manifolds associated to symplectic normal crossing divisors. These contact 3-manifolds arise as the boundaries of regular symplectic neighborhoods of a special class of divisors known as concave divisors. Concave divisors are the symplectic analog of compactifying divisors in projective geometry. My thesis advisors were Eric Zaslow and John Etnyre. Previously, I worked with Professor Emmy Murphy.
+<p> My dissertation focused on the theory of contact 3-manifolds associated to symplectic normal crossing divisors. These contact 3-manifolds arise as the boundaries of regular symplectic neighborhoods of a special class of divisors known as concave divisors. Concave divisors are the symplectic analog of compactifying divisors in projective geometry. My thesis advisors were Eric Zaslow and John Etnyre.
     
