@@ -9,7 +9,7 @@ permalink: about.html
     <img src="randy.png" style="float:right;width:350px;height:350px;text-align:center;">
     <h1>About me</h1>
     <hr>
-    <p>I am a President's Postdoctoral Research Fellow and Visiting Assistant Professor at The Georgia Institute of Technology. You can read more about <a href="research">my research</a> here. I obtained my PhD in Mathematics from Northwestern University in 2024 under the direction of John Etnyre (Georgia Institute of Technology) and Eric Zaslow (Northwestern). Previously, I worked with Professor Emmy Murphy (University of Toronto).
+    <p>I am a President's Postdoctoral Research Fellow and Visiting Assistant Professor at The Georgia Institute of Technology. You can read more about <a href="research">my research</a> here. I obtained my PhD in Mathematics from Northwestern University in 2024 under the direction of John Etnyre (Georgia Institute of Technology) and Eric Zaslow (Northwestern).
 
 <p> In the fall of 2026, I was a referee for the Batch 3 Benchmark Workshop at the Institute for Computer-Aided Reasoning in Mathematics (ICARM) at Carnegie Mellon University, organized by the <a href="https://1stproof.org/">1st Proof Foundation</a>. I reviewed 4 mathematical papers submitted by frontier AI firms and open source projects. You can read the full report <a href="https://1stproof.org/assets/docs/batch3-report.pdf">here</a>.
 
